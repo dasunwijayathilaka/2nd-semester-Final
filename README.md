@@ -168,7 +168,6 @@ This project is for educational purposes only under the guidelines of IJSE - GDS
 
 ---
 
-Let me know if you want this as a downloadable file, or need help with setting up your screenshots, video link, or deployment.
 ------------------------------------------------------------------------------------------------------------------------------
 
 
