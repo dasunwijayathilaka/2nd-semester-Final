@@ -1,12 +1,8 @@
----
 
-🎥 Demo Video
-📺 Watch the Demo Video -----  https://youtu.be/LcBmKBjrhh8?si=ZvWeXEC2DK4gwtFk
-
-🎞️ Naming Convention: GDSE69_Panadura_DasunTharakaWijayathilaka_2ndSemesterDemo.mp4
-
----
 # 🛒 Classified Ads Web Application
+
+🎥 Youtube Demo Video
+📺  https://youtu.be/LcBmKBjrhh8?si=ZvWeXEC2DK4gwtFk
 
 **👨‍💻 Author:** Dasun Tharaka Wijayathilaka  
 **🏫 Institute:** IJSE - GDSE69 - Panadura  
@@ -18,7 +14,6 @@
 
 This is a full-stack web-based **Classified Ads Platform** that allows users to post, browse, and manage ads in various categories such as Electronics, Vehicles, Real Estate, Jobs, and more. Inspired by platforms like **ikman.lk**, this application enables users to register, post ads with images, filter ads based on category and location, and communicate in real-time. The admin panel allows site management including user moderation and category controls.
 
----
 
 ## 📸 Screenshots
 
